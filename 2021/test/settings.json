@@ -1,0 +1,26 @@
+{
+  "vote": {
+    "blockheight": 831769,
+    "originator": "The QRL Foundation",
+    "title": "Test vote - desktop theme",
+    "eligibility": "Balance > 1 Quanta",
+    "excluded": "Nil",
+    "mechanics": "Simple proportional vote",
+    "expires": "At end of test period (TBA)"
+  },
+  "options": [
+    {
+      "data": {
+        "vote": "DARK MODE"
+      },
+      "hash": null
+    },
+    {
+      "data": {
+        "vote": "LIGHT MODE"
+      },
+      "hash": null
+    }
+  ]
+}
+
